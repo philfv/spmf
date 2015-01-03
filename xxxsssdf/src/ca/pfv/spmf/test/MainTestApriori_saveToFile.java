@@ -11,7 +11,7 @@ import ca.pfv.spmf.algorithms.frequentpatterns.apriori.AlgoApriori;
  * @author Philippe Fournier-Viger (Copyright 2008)
  */
 public class MainTestApriori_saveToFile {
-
+ 
 	public static void main(String [] arg) throws IOException{
 
 		String input = fileToPath("contextPasquier99.txt");
